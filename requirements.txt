@@ -1,1 +1,4 @@
 python-telegram-bot==21.10
+line-bot-sdk==3.11.0
+Flask==3.0.3
+gunicorn==22.0.0
